@@ -13,11 +13,38 @@
     
     
     <item>
-      <title>Online Cyber Security Courses</title>
-      <link>https://mbahack2.syui.cf/hugo-theme-air/post/test1/</link>
+      <title>Awesome Lists</title>
+      <link>https://mbahack2.syui.cf/hugo-theme-air/post/test4/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mbahack2.syui.cf/hugo-theme-air/post/test1/</guid>
+      <guid>https://mbahack2.syui.cf/hugo-theme-air/post/test4/</guid>
+      <description>Kali Linux Tools - List of tools present in Kali Linux. SecTools - Top 125 Network Security Tools. Pentest Cheat Sheets - Awesome Pentest Cheat Sheets. C/C++ Programming - One of the main language for open source security tools. .NET Programming - Software framework for Microsoft Windows platform development. Shell Scripting - Command line frameworks, toolkits, guides and gizmos. Ruby Programming by @dreikanter - The de-facto language for writing exploits.</description>
+    </item>
+    
+    <item>
+      <title>Başkan</title>
+      <link>https://mbahack2.syui.cf/hugo-theme-air/post/test/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mbahack2.syui.cf/hugo-theme-air/post/test/</guid>
+      <description>echo &amp;quot;hello world Başkan !!&amp;quot;  </description>
+    </item>
+    
+    <item>
+      <title>CTFs, Labs, WarGames</title>
+      <link>https://mbahack2.syui.cf/hugo-theme-air/post/test2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mbahack2.syui.cf/hugo-theme-air/post/test2/</guid>
+      <description>| Websites | Description | | &amp;mdash;&amp;mdash; | &amp;mdash;&amp;mdash; | | Awesome CTF | A Curated List of CTF Frameworks, Libraries, Resources and Softwares | | HackTheBox | Pen-testing Labs | | VulnHub | Gain Practical &amp;lsquo;hands-on&amp;rsquo; Experience in Digital Security, Computer Software &amp;amp; Network Administration | | Hacking-LAB | Online Ethical Hacking, Computer Network and Security Challenge Platform | | OtherWire | Learn and Practice Security Concepts in the Form of Fun-filled Games | | CTF Me | Learn CTF | | CTF Time | CTF Archive | | CTF365 | CTF Practicing | | CTF Learn | Hackers in Improving Your CTF Skills | | CTF 101 | Computer Security Competiton | | Root Me | Challange Your Hacking Skills | | Backdoor | Show Your Talent in a Competitive Environment | | Hacker Center | Learn Cybersecurity Skills by Playing Capture the Flag | | Hacker Experience | Game of Hacker Experience | | Hack This | Discover How Hacks, Dumps and Defacements are Performed | | Crackmes | Improve Your Reverse Engineering Skills | | Challanges | Reverse Engineering Challenges | | ROP Emporium | Learn Return-oriented Programming (ROP) through a Series of Challenges | | Micro Corruption | Embedded Security CTF | | Hack This Site | Free, Safe and Legal Training Ground for Hackers to Test and Expand Their Skills | | Open Security Training | OpenSecurityTraining.</description>
+    </item>
+    
+    <item>
+      <title>Online Cyber Security Courses</title>
+      <link>https://mbahack2.syui.cf/hugo-theme-air/post/test3/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mbahack2.syui.cf/hugo-theme-air/post/test3/</guid>
       <description>Cybrary - Free courses in ethical hacking and advanced penetration testing. Advanced penetration testing courses are based on the book &amp;lsquo;Penetration Testing for Highly Secured Environments&amp;rsquo;. Coursera - 100% online learning from the world’s best universities and companies. Udemy - Choose from over 100,000 online video courses with new additions published every month. edX - Accelerate your future. Learn anytime, anywhere. MOOC.fi - The courses are offered by University of Helsinki&amp;rsquo;s Department of Computer Science.</description>
     </item>
     
